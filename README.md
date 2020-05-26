@@ -2,4 +2,4 @@
 
 [See our wiki for more info](bitsimplify.com/wiki)
 
-[Screenshot](Screen.png)
+[Screenshot](https://github.com/bitsimplify-com/bitsimplify-bugtracker/blob/master/ScreenShot.png)
